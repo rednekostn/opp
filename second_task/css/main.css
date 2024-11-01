@@ -1,0 +1,24 @@
+.background {
+    /*background-color: blueviolet;*/
+    width: auto;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.a {
+    position: absolute;
+}
+
+.b {
+    margin-left: 7vw;
+    width: 30vw;
+    margin-top: 9vh;
+}
+
+.c {
+    margin-left: 20vw;
+    width: 30vw;
+    margin-top: -4vh;
+}
