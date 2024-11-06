@@ -7,6 +7,13 @@
     left: 0;
 }
 
+.photo{
+    width: 10vw;
+    position: absolute;
+    margin-top: 34vh;
+    margin-left: 2vw;
+}
+
 .a {
     position: absolute;
 }
